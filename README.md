@@ -5,7 +5,7 @@
 * * * Mailer
 * * * mail services provider
 * * * CPC
-* * AI preliminary approved self-identification
+* * AI (preliminary) approved self-identification
 * * * Automated recognition and reliable certification
 * * * * dpl chat
 * promote GeoCoding as part of ID = 1/2Name + 1/2Por
