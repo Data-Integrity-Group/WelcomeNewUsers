@@ -1,5 +1,10 @@
 # WelcomeNewUsers
 * key features to document include:
+* * MailFail notifications
+* * * intended recipient
+* * * Mailer
+* * * mail services provider
+* * * CPC
 * * AI preliminary approved self-identification
 * * * Automated recognition and reliable certification
 * * * * dpl chat
