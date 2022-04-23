@@ -4,7 +4,7 @@
 * * * intended recipient
 * * * Mailer
 * * * mail services provider
-* * * CPC
+* * * NAMMU/CPC
 * * AI (preliminary) approved self-identification
 * * * Automated recognition and reliable certification
 * * * * dpl chat
