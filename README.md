@@ -1,5 +1,6 @@
 # WelcomeNewUsers
 ## 2022-05:
+* NAMMU discussions
 * ...
 ## prior notes
 * key features to document include:
