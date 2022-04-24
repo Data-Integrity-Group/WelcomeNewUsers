@@ -1,7 +1,8 @@
 # WelcomeNewUsers
 ## 2022-05:
 * NAMMU discussions
-* AdManCa RFP issue
+* AdManCa RFP issued
+* * AddressCertification
 * CPC discussions
 * ...
 ## prior notes
