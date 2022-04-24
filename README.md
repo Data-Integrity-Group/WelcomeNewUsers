@@ -1,4 +1,7 @@
 # WelcomeNewUsers
+## 2022-05:
+* ...
+## prior notes
 * key features to document include:
 * * MailFail notifications
 * * * intended recipient
