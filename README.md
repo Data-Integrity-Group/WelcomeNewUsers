@@ -1,6 +1,8 @@
 # WelcomeNewUsers
 ## 2022-05:
 * NAMMU discussions
+* AdManCa RFP issue
+* CPC discussions
 * ...
 ## prior notes
 * key features to document include:
