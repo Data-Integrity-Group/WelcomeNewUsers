@@ -1,7 +1,9 @@
 # WelcomeNewUsers
 ## 2022-05:
 * NAMMU discussions
-* AdManCa RFP issued
+* * ESDB collaboration as a OnceAndDone effort.
+* * * confirm Mike will work thru an Account Manager
+* AdManCa RFP issue
 * * AddressCertification
 * CPC discussions
 * ...
