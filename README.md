@@ -2,7 +2,7 @@
 ## 2022-05:
 * NAMMU discussions
 * * ESDB collaboration as a OnceAndDone effort.
-* * * confirm Mike will work thru an Account Manager
+* * * confirmed Mike will work thru an Account Manager
 * AdManCa RFP issue
 * * AddressCertification
 * CPC discussions
