@@ -3,6 +3,7 @@
 * NAMMU discussions
 * * ESDB collaboration as a OnceAndDone effort.
 * * * confirmed Mike will work thru an Account Manager
+* * * * he does, however, remain fixed in HIS views
 * AdManCa RFP issue
 * * AddressCertification
 * CPC discussions
