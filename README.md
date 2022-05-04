@@ -8,7 +8,7 @@
 * * * confirmed Mike will work thru an Account Manager
 * * * * he does, however, remain fixed in HIS views 
 * * * * but may soften on Data
-* consider the Promary/Secondary & online offline issues carefully
+* consider the Primary/Secondary & online/offline issues
 * AdManCa RFP issue
 * * AddressCertification
 * CPC discussions
