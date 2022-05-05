@@ -8,6 +8,7 @@
 * * * confirmed Mike will work thru an Account Manager
 * * * * he does, however, remain fixed in HIS views 
 * * * * but may soften on Data
+* discuss TapestryH plans 
 * consider the Primary/Secondary & online/offline issues
 * AdManCa RFP issue
 * * AddressCertification
