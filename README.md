@@ -10,6 +10,7 @@
 * * * * but may soften on Data
 * refine TapestryH plans 
 * * consider rough sketches via https://excalidraw.com/
+* * disemination vai https://github.com/logseq/logseq
 * consider the Primary/Secondary & online/offline issues
 * AdManCa RFP issue
 * * AddressCertification
