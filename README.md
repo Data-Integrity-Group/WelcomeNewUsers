@@ -4,6 +4,7 @@
 * * chat with Patrick regarding delivery tracking for Emb(s)
 * * * this should benefit from the Bureau RFP work
 * * * * issue an RFP to the Bureaux
+* * anticipate TsAndCs that may be requested
 * * ESDB collaboration as a OnceAndDone effort.
 * * * confirmed Mike will work thru an Account Manager
 * * * * he does, however, remain fixed in HIS views 
