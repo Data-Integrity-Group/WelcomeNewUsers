@@ -9,7 +9,7 @@
 * * * confirmed Mike will work thru an Account Manager
 * * * * he does, however, remain fixed in HIS views 
 * * * * but may soften on Data
-* refine TapestryH plans 
+* refine TapestryH (TaskssLegoBlocks) plans 
 * * consider 
 * * * rough sketches via https://excalidraw.com/
 * disemination via 
