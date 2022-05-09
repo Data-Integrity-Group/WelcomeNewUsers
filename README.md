@@ -9,9 +9,10 @@
 * * * confirmed Mike will work thru an Account Manager
 * * * * he does, however, remain fixed in HIS views 
 * * * * but may soften on Data
-* refine TapestryH (TaskssLegoBlocks) plans 
+* refine TapestryH (TasksLegoBlocks) plans 
 * * consider 
 * * * rough sketches via https://excalidraw.com/
+* * * * raw SSV suppport within HTML seems more than adequate for qyuick&dirty sketches.
 * disemination via 
 * consider the Primary/Secondary & online/offline issues
 * AdManCa RFP issue
