@@ -11,6 +11,7 @@
 * * * * but may soften on Data
 * refine TapestryH (TasksLegoBlocks) plans 
 * * consider 
+* * * https://tiddly-gittly.github.io/tw-echarts/#TheBrain
 * * * rough sketches via https://excalidraw.com/
 * * * * raw SSV suppport within HTML seems more than adequate for qyuick&dirty sketches.
 * disemination via 
