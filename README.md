@@ -6,7 +6,7 @@
 * * * * issue an RFP to the Bureaux
 * * * anticipate TsAndCs that may be requested
 * * ESDB collaboration as a OnceAndDone effort.
-* * * confirmed Mike will work thru an Account Manager
+* * * confirmed Mike will work thru an Account Manager for EmbCa
 * * * * he does, however, remain fixed in HIS views 
 * * * * but may soften on Data
 * refine TapestryH (TasksLegoBlocks) plans 
