@@ -3,7 +3,7 @@
 * NAMMU discussions
 * * chat with Patrick regarding delivery tracking for Emb(s)
 * * * this should benefit from the Bureau RFP work
-* * * * issue an RFP to the Bureaux
+* * * * issue an RFP to the Bureaux for MailFail on behalf of EmbCa(s) with a duration of 2 Events+
 * * * anticipate TsAndCs that may be requested
 * * ESDB collaboration as a OnceAndDone effort.
 * * * confirmed Mike will work thru an Account Manager for EmbCa
