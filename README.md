@@ -1,5 +1,6 @@
 # WelcomeNewUsers
 ## 2022-05:
+* Some of this material needs to be reloacted into shared Doc(s) file(s)
 * NAMMU discussions
 * * chat with Patrick regarding delivery tracking for Emb(s)
 * * * this should benefit from the Bureau RFP work
