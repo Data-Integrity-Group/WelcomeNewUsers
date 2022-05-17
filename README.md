@@ -1,7 +1,7 @@
 # WelcomeNewUsers
 ## 2022-05:
 * Some of this material needs to be reloacted into shared Doc(s) file(s)
-* * pulse considerations can be ingored fo now since deletions show
+* * pulse considerations can be ingored for now since deletions show
 * NAMMU discussions
 * * chat with Patrick regarding delivery tracking for Emb(s)
 * * * this should benefit from the Bureau RFP work
