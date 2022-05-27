@@ -1,7 +1,8 @@
 # WelcomeNewUsers
 ## 2022-05:
 * -05-21: there may be a Pulse issue
-* * --5-26: confirming
+* * -05-27: Closed
+* * -05-26: confirming
 * Some of this material needs to be relocated into shared Doc(s) file(s)
 * * pulse considerations can be ingored for now since deletions show
 * NAMMU discussions
