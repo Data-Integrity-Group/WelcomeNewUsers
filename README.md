@@ -1,6 +1,6 @@
 # WelcomeNewUsers
 ## 2022-05:
-* -05-21: there may be a Pulse issue
+* -05-29: there is a diminished Pulse issue
 * * -05-27: Closed
 * * -05-26: confirming
 * Some of this material needs to be relocated into shared Doc(s) file(s)
