@@ -1,5 +1,6 @@
 # WelcomeNewUsers
-## 2022-05:
+## 2022-06:
+* -06-02: EmbOn43 precludes regular changes pre -06-06
 * -05-29: there is a diminished Pulse issue
 * * -05-27: Closed
 * * -05-26: confirming
