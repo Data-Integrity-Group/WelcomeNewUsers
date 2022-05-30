@@ -1,7 +1,7 @@
 # WelcomeNewUsers
 ## 2022-06:
 * -06-02: EmbOn43 precludes regular changes pre -06-06
-* -05-29: there is a diminished Pulse issue
+* -05-29: There is a diminished Pulse issue, indicating this concern may be passe.
 * * -05-27: Closed
 * * -05-26: confirming
 * Some of this material needs to be relocated into shared Doc(s) file(s)
