@@ -1,5 +1,6 @@
 # WelcomeNewUsers
 ## 2022-06:
+* -06-12: slowly re-connecting
 * -06-02: EmbOn43 precludes regular changes pre -06-06.  Exceptions may be noted.
 * * monthly maintenance is needed
 * -05-29: There is a diminished Pulse issue, indicating this concern may be passe.
