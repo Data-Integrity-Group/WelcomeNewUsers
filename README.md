@@ -1,5 +1,6 @@
 # WelcomeNewUsers
 ## 2022-06:
+* -06-19: reviewing metrics that may be useful feedback
 * -06-18: linked DigCa @ GitHub & AdManCa @ Notion
 * * Interface to LinkedIn & Twitter
 * -06-12: slowly re-connecting
