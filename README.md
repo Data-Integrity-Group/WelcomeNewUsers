@@ -1,4 +1,7 @@
 # WelcomeNewUsers
+## 2022-07:
+* starting to integrate more styling via a ReMarkable tablet
+
 ## 2022-06:
 * -06-22: focused on a couple of Business challenges for the first half of this week.
 * -06-20: exploring GIST interactions for a streamlined user experience
