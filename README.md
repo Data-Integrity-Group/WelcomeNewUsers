@@ -1,4 +1,7 @@
 # WelcomeNewUsers
+## 2022-08
+* ...
+
 ## 2022-07:
 * starting to integrate more styling via a ReMarkable tablet
 
