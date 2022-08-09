@@ -1,8 +1,12 @@
 # WelcomeNewUsers
 ## 2022-08
+
 * -08-09: A HoneyPost design is needed.
-** Check ChrisA's work to see if he inter-twingles GitHub and Hypotesis
-*** ...
+* * Can PDF's be uploaded into GitHub?
+* * * if not, I may need to make use of my OneDrive quota
+* * * * the Publix version, since DataFix admnin must get involved for the corporate version.
+* * Check ChrisA's work to see if he inter-twingles GitHub and Hypotesis
+* * * ...
 
 * -08-07: confirmed MAIN
 
