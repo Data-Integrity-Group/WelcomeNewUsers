@@ -1,6 +1,10 @@
 # WelcomeNewUsers
 ## 2022-08
-* 2022-08-07: confirmed MAIN
+* -08-09: A HoneyPost design is needed.
+** Check ChrisA's work to see if he inter-twingles GitHub and Hypotesis
+*** ...
+
+* -08-07: confirmed MAIN
 
 ## 2022-07:
 * starting to integrate more styling via a ReMarkable tablet
