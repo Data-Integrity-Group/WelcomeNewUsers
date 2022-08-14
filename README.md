@@ -1,6 +1,7 @@
 # WelcomeNewUsers
 ## 2022-08
 
+* -08-14: Anticipate the neds of newcomers.
 * -08-09: A HoneyPost design is needed.
 * * Can PDF's be uploaded into GitHub?
 * * * if not, I may need to make use of my OneDrive quota
