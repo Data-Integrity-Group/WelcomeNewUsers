@@ -3,6 +3,7 @@
 
 * -08-14: Anticipate the needs of newcomers.
 * * -20: Navigation will be a significant impediment.
+* * * Evaluate both Notion & Hypothesis as possible mitigations
 * -08-09: A HoneyPost design is needed.
 * * Can PDF's be uploaded into GitHub?
 * * * if not, I may need to make use of my OneDrive quota
