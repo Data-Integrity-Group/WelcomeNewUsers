@@ -1,6 +1,7 @@
 # WelcomeNewUsers
 ## 2022-08
 
+* 11-17: Cionsider which repos to enable for TreeFort
 * -08-14: Anticipate the needs of newcomers.
 * * -08-20: Navigation will be a significant impediment.
 * * * Evaluate both Notion & Hypothesis as possible mitigations
