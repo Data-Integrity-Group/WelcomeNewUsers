@@ -1,4 +1,9 @@
 # WelcomeNewUsers
+
+## 2023-08:
+*  revive this idea after a CnIt review
+*  consider this Idea's position in %. Fi , 6. Co , 7. Re of FiCore
+
 ## 2022-08
 
 * 11-17: Consider which repos to enable for TreeFort
