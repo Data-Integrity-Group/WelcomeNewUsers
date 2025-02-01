@@ -1,4 +1,8 @@
 # WelcomeNewUsers
+
+## 2025-02:
+- try a resurection of this repo
+
 ## 2022-08
 
 * 11-17: Consider which repos to enable for TreeFort
