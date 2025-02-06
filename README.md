@@ -2,7 +2,7 @@
 
 ## 2025-02:
 - try a resurection of this repo
-  - perhaps adding LsT reportes to PbWorks will help
+  - perhaps adding LsT reports to PbWorks will help
     - encourage this and see if it can be delegated to a bot - perhaps as a better form of Scrapping
 
 ## 2022-08
