@@ -4,6 +4,7 @@
 - try a resurection of this repo
   - perhaps adding LsT reports to PbWorks will help
     - encourage this and see if it can be delegated to a bot - perhaps as a better form of Scrapping
+      - this should be tried even if just for a small section
 
 ## 2022-08
 
