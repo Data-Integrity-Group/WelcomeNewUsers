@@ -6,6 +6,7 @@
     - encourage this and see if it can be delegated to a bot - perhaps as a better form of Scrapping
       - this should be tried even if just for a small section
     - Loom and Lz amy be informative
+      - ask for a demo
 
 ## 2022-08
 
