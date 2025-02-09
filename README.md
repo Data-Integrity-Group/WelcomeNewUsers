@@ -7,6 +7,7 @@
       - this should be tried even if just for a small section
     - Loom and Lz may be informative
       - ask for a training demo
+    - increase the focus on OnTheList
 
 ## 2022-08
 
