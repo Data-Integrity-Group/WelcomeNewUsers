@@ -7,9 +7,9 @@
       - this should be tried even if just for a small section
     - Loom and Lz may be informative
       - ask for a training demo
-    - increase the focus on OnTheList
-      - suggest ( and assign ) Business Case responsibilitiy
-        - immediately after -02-27
+  - increase the focus on OnTheList
+     - suggest ( and assign ) Business Case responsibilitiy
+       - immediately after -02-27
 
 ## 2022-08
 
