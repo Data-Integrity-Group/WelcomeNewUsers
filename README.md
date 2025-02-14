@@ -6,7 +6,7 @@
     - encourage this and see if it can be delegated to a bot - perhaps as a better form of Scrapping
       - this should be tried even if just for a small section
     - Loom and Lz may be informative
-      - ask for a training demo
+      - ask for a training demo - scheduled for -02-17
   - increase the focus on OnTheList
      - suggest ( and assign ) Business Case responsibilitiy
        - immediately after -02-27
