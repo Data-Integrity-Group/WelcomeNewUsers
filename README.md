@@ -7,6 +7,7 @@
       - this should be tried even if just for a small section
     - Loom and Lz may be informative
       - ask for a training demo - scheduled for -02-17
+        - reminded LzT - insisted on a new tine
   - increase the focus on OnTheList
      - suggest ( and assign ) Business Case responsibilitiy
        - immediately after -02-27
