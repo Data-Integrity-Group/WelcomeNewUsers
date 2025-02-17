@@ -8,6 +8,7 @@
     - Loom and Lz may be informative
       - ask for a training demo - scheduled for -02-17
         - reminded LzT - insisted on a new tine
+          - postponed the 09:00 session until 13:00 - then failed to initiate via teams as promised.
   - increase the focus on OnTheList
      - suggest ( and assign ) Business Case responsibilitiy
        - immediately after -02-27
