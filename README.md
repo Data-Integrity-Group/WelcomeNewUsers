@@ -11,6 +11,7 @@
           - postponed the 09:00 session until 13:00 - then failed to initiate via teams as promised.
       - create a Team/Loom account - this can be a routine Df/account
         - use this as an opportunity for a Corporate card review
+          - confirm/Deny the limits management changes at BMO/MC 
   - increase the focus on OnTheList
      - suggest ( and assign ) Business Case responsibilitiy
        - immediately after -02-27
