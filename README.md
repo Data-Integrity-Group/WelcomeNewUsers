@@ -17,7 +17,7 @@
   - increase the focus on OnTheList
      - suggest ( and assign ) Business Case responsibilitiy
        - immediately after -02-27
-         - emphasize that this is slipping ever more due to delas like Loom.
+         - emphasize that this is slipping ever more due to delays like Loom.
            - always chasing candyland rainbows
 
 ## 2022-08
