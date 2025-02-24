@@ -24,7 +24,7 @@
 
 * 11-17: Consider which repos to enable for TreeFort
 * -08-14: Anticipate the needs of newcomers.
-* * -08-20: Navigation will be a significant impediment.
+  * -08-20: Navigation will be a significant impediment.
 * * * Evaluate both Notion & Hypothesis as possible mitigations
 * * * * Notion may be the more promising, but may hit restictions even for Authorized shares.
 * * * * editView in GitHub seems to allow Hypothesis to function
