@@ -14,6 +14,7 @@
           - confirm/Deny the limits management changes at BMO/MC
   - review the CAD/USD product DanS has suggested
     - test exhaustively in order the refine the Banking Operations methodologies we use actively
+      - the documentation is now available
   - increase the focus on OnTheList
      - suggest ( and assign ) Business Case responsibilitiy
        - immediately after -02-27
