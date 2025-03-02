@@ -3,6 +3,15 @@
 ## 2025-03:
 ...
 
+- increase the focus on OnTheList
+    - suggest ( and assign ) Business Case responsibilitiy
+     - immediately after -02-27
+       - emphasize that this is slipping ever more due to delays like Loom.
+         - always chasing candyland rainbows
+             - 0226: loom license now acquired
+  - 0303: this should likely be a separate (external ?)page
+    - DiigoH outliner?
+
 ## 2025-02:
 - Try resurecting this repo
   - perhaps adding LsT reports to PbWorks will help
@@ -18,14 +27,6 @@
   - review the CAD/USD product DanS has suggested
     - test exhaustively in order the refine the Banking Operations methodologies we use actively
       - the documentation is now available
-  - increase the focus on OnTheList
-     - suggest ( and assign ) Business Case responsibilitiy
-       - immediately after -02-27
-         - emphasize that this is slipping ever more due to delays like Loom.
-           - always chasing candyland rainbows
-             - 0226: loom license now acquired
-       - 0303: this should likely be a separate (external ?)page
-         - DiigoH outliner?
 
 ## 2022-08
 
