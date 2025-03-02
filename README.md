@@ -21,6 +21,8 @@
          - emphasize that this is slipping ever more due to delays like Loom.
            - always chasing candyland rainbows
              - 0226: loom license now acquired
+       - 0303: this should likely be a separate (external ?)page
+         - DiigoH outliner?
 
 ## 2022-08
 
