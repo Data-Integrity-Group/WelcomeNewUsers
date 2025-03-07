@@ -3,9 +3,10 @@
 ## 2025-03:
 ...
 
-- increase the focus on OnTheList
-    - suggest ( and assign ) Business Case responsibilitiy
-     - provide a loom account to Andrea
+* increase the focus on OnTheList
+   * suggest ( and assign ) Business Case responsibilitiy
+     * provide a loom account to Andrea
+       * 
      - immediately after -02-27
        - emphasize that this is slipping ever more due to delays like Loom.
          - always chasing candyland rainbows
