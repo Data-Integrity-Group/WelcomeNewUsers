@@ -7,6 +7,7 @@
    * suggest ( and assign ) Business Case responsibilitiy
      * provide a loom account to Andrea
        * guide her with a statement of the relative priorities
+         * of (just) two Tasks (initially)
      * immediately after -02-27
        * emphasize that this is slipping ever more due to delays like Loom.
          * always chasing candyland rainbows
