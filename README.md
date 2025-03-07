@@ -7,12 +7,12 @@
    * suggest ( and assign ) Business Case responsibilitiy
      * provide a loom account to Andrea
        * 
-     - immediately after -02-27
-       - emphasize that this is slipping ever more due to delays like Loom.
-         - always chasing candyland rainbows
-             - 0226: loom license now acquired
-  - 0303: this should likely be a separate (external ?)page
-    - DiigoH outliner?
+     * immediately after -02-27
+       * emphasize that this is slipping ever more due to delays like Loom.
+         * always chasing candyland rainbows
+            * 0226: loom license now acquired
+  * 0303: this should likely be a separate (external ?)page
+    * DiigoH outliner?
 
 ## 2025-02:
 - Try resurecting this repo
