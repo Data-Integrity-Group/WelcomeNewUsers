@@ -3,7 +3,7 @@
 ## 2025-03:
 ...
 
-* increase the focus on OnTheList
+* increase the focus on OnTheList ( use headings as HTML anchors ( temporarily ?)
    * suggest ( and assign ) Business Case responsibilitiy
      * provide a loom account to Andrea
        * guide her with a statement of the relative priorities
