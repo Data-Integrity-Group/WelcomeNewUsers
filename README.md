@@ -3,17 +3,18 @@
 ## 2025-03:
 ...
 
-* increase the focus on OnTheList ( use headings as HTML anchors ( temporarily ?)
-   * suggest ( and assign ) Business Case responsibilitiy
-     * provide a loom account to Andrea
-       * guide her with a statement of the relative priorities
-         * of (just) two Tasks (initially)
-     * immediately after -02-27
-       * emphasize that this is slipping ever more due to delays like Loom.
-         * always chasing candyland rainbows
-            * 0226: loom license now acquired
-  * 0303: this should likely be a separate (external ?)page
-    * DiigoH outliner?
+- increase the focus on OnTheList ( use headings as HTML anchors ( temporarily ?)
+   - suggest ( and assign ) Business Case responsibilitiy
+     - provide a loom account to Andrea
+       - guide her with a statement of the relative priorities
+         - of (just) two Tasks (initially)
+     - re-test this at DiigoH
+     - immediately after -02-27
+       - emphasize that this is slipping ever more due to delays like Loom.
+         - always chasing candyland rainbows
+           - 0226: loom license now acquired
+  - 0303: this should likely be a separate (external ?)page
+    - DiigoH outliner?
 
 ## 2025-02:
 - Try resurecting this repo
