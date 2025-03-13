@@ -1,5 +1,17 @@
 # WelcomeNewUsers
+Most of the current work is part of an Experimental Development process that is exploring the interactions between a Real and a Virtual (Socercy) author.
 
+The obvious goal is to automate as much of the development process as possible and to resolve apparent issues, such as:
+
+- the need for a common subset of conventions that can co-exist in the various envbironments employed to achieve Best-of-Class performance
+  - At this time, these include:
+    - GitHub inself (to manage complex interactions among the various development environments),
+    - POE as an entry point to a few of the most useful AI tools and as an entry point to the rapidly emerging ones,
+    - TiddlyWiki and its platform variants
+    - Python as a dominant programming language
+    - the aggressive use of UniCode to enhance Information density
+   
+<hr>
 
 ## 2025-04:
 ...
