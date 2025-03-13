@@ -15,7 +15,7 @@ The obvious goal is to automate as much of the development process as possible a
       - S - Spatial coordinates generally comprized of latiture and longitude pairs
       - T - Time values that are part of a 10 element Scope continuum
    
-- illustrate the practical need for this Experimental Development that is an inherent part of refining the ability to deliver improved Voting services to the considerable majority of Canada's Electoral Authorities.
+- Illustrate the practical need for this Experimental Development that is an inherent part of refining the ability to deliver improved Voting services to the considerable majority of Canada's Electoral Authorities.
 
    
 <hr>
