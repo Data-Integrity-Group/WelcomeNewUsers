@@ -9,7 +9,14 @@ The obvious goal is to automate as much of the development process as possible a
     - POE as an entry point to a few of the most useful AI tools and as an entry point to the rapidly emerging ones,
     - TiddlyWiki and its platform variants
     - Python as a dominant programming language
-    - the aggressive use of UniCode to enhance Information density
+    - the aggressive use of UniCode to enhance Information density given the need to encode data in a minimum of four dimensions consisting of:
+      - Q - an initial Queue used tp capture values prior to encoding them
+      - R - a subjective Ranking of the relative importance of Queued items
+      - S - Spatial coordinates generally comprized of latiture and longitude pairs
+      - T - Time values that are part of a 10 element Scope continuum
+   
+- illustrate the practical need for this Experimental Development that is an inherent part of refining the ability to deliver improved Voting services to the considerable majority of Canada's Electoral Authorities.
+
    
 <hr>
 
