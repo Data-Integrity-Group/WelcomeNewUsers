@@ -1,4 +1,8 @@
 # WelcomeNewUsers
+
+- SRED text
+  - ...
+  
 Most of the current work is part of an Experimental Development process that is exploring the interactions between a Real and a Virtual (Socercy) author.
 
 The obvious goal is to automate as much of the development process as possible and to resolve apparent issues, such as:
